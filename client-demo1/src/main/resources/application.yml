@@ -1,0 +1,18 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /client
+security:
+  oauth2:
+    client.:
+      client-id: c3 #id
+      client-secret: secret #密钥
+      user-authorization-uri: http://localhost:8081/oauth/oauth/authorize #获取授权码
+      access-token-uri: http://localhost:8081/oauth/oauth/token #获取令牌token
+      authentication-scheme: query  #认证的处理模式，地址重写传递
+      client-authentication-scheme: form  #表单传递
+      scope: ROLE_ADMIN
+      authorized-grant-types: code  #授权类型
+      registered-redirect-uri: http://localhost:8083/client/login #返回的地址信息
+    resource:
+      user-info-uri: http://localhost:8082/resource/resource #资源服务器获取资源地址

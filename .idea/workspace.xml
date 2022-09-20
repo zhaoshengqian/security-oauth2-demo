@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="beacb32f-ec3d-4c19-a445-9e40e6334cfc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/oauth-service/target/" />
+    <ignored path="$PROJECT_DIR$/resource-service/target/" />
+    <ignored path="$PROJECT_DIR$/client-demo1/target/" />
+    <ignored path="$PROJECT_DIR$/client-demo2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1594967532">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="3" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.35" value="3" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="42" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="html" value="2" />
+          <entry key="java" value="71" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="17" />
+          <entry key="yml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="71" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="17" />
+          <entry key="YAML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="909" />
+          <entry key="properties" value="5" />
+          <entry key="xml" value="44" />
+          <entry key="yml" value="243" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="909" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="44" />
+          <entry key="YAML" value="243" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1092726408">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cmd" value="1" />
+          <entry key="html" value="5" />
+          <entry key="java" value="86" />
+          <entry key="xml" value="8" />
+          <entry key="yml" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JAVA" value="86" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="8" />
+          <entry key="YAML" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="30" />
+          <entry key="java" value="160" />
+          <entry key="xml" value="12" />
+          <entry key="yml" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="30" />
+          <entry key="JAVA" value="160" />
+          <entry key="XML" value="12" />
+          <entry key="YAML" value="14" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/oauth/TokenConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+              <folding>
+                <element signature="e#1252#1253#0" expanded="true" />
+                <element signature="e#1319#1320#0" expanded="true" />
+                <marker date="1663639284402" expanded="true" signature="1110:1574" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/controller/ResourceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/controller/ResourceEndpointController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/ClientDemo2Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#341#342#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/Swagger3Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/MyUserDetailsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/OAuth2LoginConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login/oauth2/code</find>
+      <find>AuthenticationManager</find>
+      <find>6379</find>
+      <find>oauth/oauth/authorize</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/oauth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/resource-service/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/util/MD5Util.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/oauth/AuthorizationServer.java" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/ResourceServiceApplication.java" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/config/TokenConfig.java" />
+        <option value="$PROJECT_DIR$/client-demo1/src/main/java/com/security/oauth2/clientdemo1/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/client-demo1/src/main/java/com/security/oauth2/clientdemo1/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/MyUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/OauthServiceApplication.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/Swagger3Config.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/client-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/config/ResourceServerConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/MD5PasswordEncoder.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/OAuth2LoginConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/client-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/util/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/RestTemplateConfig.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/controller/ResourceController.java" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/client-demo1/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/controller/ResourceEndpointController.java" />
+        <option value="$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/oauth/TokenConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\sort\maven\apache-maven-3.3.9\conf\settings1.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oauth-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="oauth-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="740" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clientdemo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clientdemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="client-demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="security" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oauth2" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="security-oauth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="security-oauth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;mavven&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663643056056" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.security.oauth2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.security.oauth2.config" />
+      <recent name="com.security.oauth2.clientdemo1.util" />
+      <recent name="com.security.oauth2.clientdemo1.config" />
+      <recent name="com.security.oauth2.clientdemo1.controller" />
+      <recent name="com.security.oauth2.config.oauth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\sort\ideaWorks\securityOauth2\security-oauth2-demo\oauth-service\src\main\resources\static" />
+      <recent name="E:\sort\ideaWorks\securityOauth2\security-oauth2-demo" />
+      <recent name="E:\sort\ideaWorks\securityOauth2\security-oauth2-demo\oauth-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ClientDemo2Application">
+    <configuration name="ClientDemo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="client-demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.oauth2.clientdemo1.ClientDemo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientDemo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="client-demo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.security.oauth2.clientdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.oauth2.clientdemo1.ClientDemo2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OauthServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="oauth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.oauth2.OauthServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="resource-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.security.oauth2.ResourceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OauthServiceApplication" />
+      <item itemvalue="Spring Boot.ResourceServiceApplication" />
+      <item itemvalue="Spring Boot.ClientDemo1Application" />
+      <item itemvalue="Spring Boot.ClientDemo2Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ClientDemo2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beacb32f-ec3d-4c19-a445-9e40e6334cfc" name="Default Changelist" comment="" />
+      <created>1651126972684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651126972684</updated>
+      <workItem from="1651126979442" duration="25765000" />
+      <workItem from="1651194594831" duration="6661000" />
+      <workItem from="1651712560159" duration="1317000" />
+      <workItem from="1651804733232" duration="9801000" />
+      <workItem from="1651891697035" duration="5429000" />
+      <workItem from="1652091815401" duration="791000" />
+      <workItem from="1652149493616" duration="593000" />
+      <workItem from="1652196985481" duration="4192000" />
+      <workItem from="1652286360580" duration="1734000" />
+      <workItem from="1652624548830" duration="341000" />
+      <workItem from="1653620117363" duration="1359000" />
+      <workItem from="1653635145823" duration="4192000" />
+      <workItem from="1655195184524" duration="243000" />
+      <workItem from="1655202747278" duration="651000" />
+      <workItem from="1655257259402" duration="610000" />
+      <workItem from="1655275176783" duration="2638000" />
+      <workItem from="1655341763146" duration="2058000" />
+      <workItem from="1655396620789" duration="1445000" />
+      <workItem from="1655427813177" duration="1189000" />
+      <workItem from="1655523696584" duration="603000" />
+      <workItem from="1655687386729" duration="1199000" />
+      <workItem from="1655744475766" duration="1258000" />
+      <workItem from="1655774934825" duration="1184000" />
+      <workItem from="1655864982722" duration="4716000" />
+      <workItem from="1655946099364" duration="4185000" />
+      <workItem from="1655977164656" duration="1965000" />
+      <workItem from="1656032200691" duration="1333000" />
+      <workItem from="1656039498514" duration="592000" />
+      <workItem from="1656041109490" duration="1070000" />
+      <workItem from="1656051099221" duration="187000" />
+      <workItem from="1656051497094" duration="221000" />
+      <workItem from="1656051749322" duration="1166000" />
+      <workItem from="1656295301524" duration="1006000" />
+      <workItem from="1656914381031" duration="805000" />
+      <workItem from="1656982961180" duration="1341000" />
+      <workItem from="1657183090900" duration="463000" />
+      <workItem from="1658733054828" duration="2883000" />
+      <workItem from="1658797369260" duration="620000" />
+      <workItem from="1658883688096" duration="647000" />
+      <workItem from="1658969731873" duration="1775000" />
+      <workItem from="1659058069643" duration="614000" />
+      <workItem from="1659265774706" duration="975000" />
+      <workItem from="1660644214354" duration="671000" />
+      <workItem from="1660699175094" duration="14208000" />
+      <workItem from="1660807122955" duration="1873000" />
+      <workItem from="1660833032222" duration="610000" />
+      <workItem from="1661130454779" duration="3524000" />
+      <workItem from="1661218541968" duration="5240000" />
+      <workItem from="1661309079570" duration="1371000" />
+      <workItem from="1661740086117" duration="10076000" />
+      <workItem from="1661822833457" duration="9272000" />
+      <workItem from="1661912609193" duration="2924000" />
+      <workItem from="1663308546950" duration="3185000" />
+      <workItem from="1663638777471" duration="3396000" />
+      <workItem from="1663642259671" duration="57000" />
+      <workItem from="1663642366265" duration="1176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="159400000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4028369" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Codeup" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.27375886" />
+      <window_info anchor="bottom" id="Docker" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32577905" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Grav" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3299595" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.112600535" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="8" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="12" />
+      <window_info anchor="right" id="Alibaba Log Console" order="13" />
+      <window_info anchor="right" id="Capture Analysis" order="14" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/controller/ResourceController.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.6.7/spring-boot-autoconfigure-2.6.7.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2ClientRegistrationRepositoryConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="69" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-oauth2-core/5.6.3/spring-security-oauth2-core-5.6.3.jar!/org/springframework/security/oauth2/core/AuthorizationGrantType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-oauth2-client/5.6.3/spring-security-oauth2-client-5.6.3.jar!/org/springframework/security/oauth2/client/registration/ClientRegistration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="95" column="105" selection-start-line="95" selection-start-column="87" selection-end-line="95" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.6.7/spring-boot-autoconfigure-2.6.7.jar!/org/springframework/boot/autoconfigure/security/oauth2/client/servlet/OAuth2WebSecurityConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/test/java/com/security/oauth2/clientdemo1/ClientDemo1ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../java/jdk1.8/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23180">
+          <caret line="1279" selection-start-line="1279" selection-end-line="1279" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.5.0.RELEASE/spring-security-oauth2-2.5.0.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/AuthorizationServerEndpointsConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="258" column="50" selection-start-line="258" selection-start-column="50" selection-end-line="258" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.6.3/spring-security-core-5.6.3.jar!/org/springframework/security/authentication/AuthenticationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/MD5PasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-oauth2-client/5.6.2/spring-security-oauth2-client-5.6.2-sources.jar!/org/springframework/security/oauth2/client/endpoint/DefaultAuthorizationCodeTokenResponseClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2-sources.jar!/org/springframework/security/web/debug/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.6.2/spring-security-web-5.6.2-sources.jar!/org/springframework/security/web/debug/DebugFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo1/src/main/java/com/security/oauth2/clientdemo1/ClientDemo1Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="67" column="27" selection-start-line="67" selection-start-column="27" selection-end-line="67" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/util/HttpClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1243">
+          <caret line="92" column="52" selection-start-line="92" selection-start-column="52" selection-end-line="92" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.75.Final/netty-transport-4.1.75.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/resources/static/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo1/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo1/src/main/java/com/security/oauth2/clientdemo1/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/config/ResourceServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/config/TokenConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/ResourceServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="66" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.5.0.RELEASE/spring-security-oauth2-2.5.0.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/authentication/OAuth2AuthenticationProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.3.18/spring-web-5.3.18-sources.jar!/org/springframework/http/HttpEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="99" column="38" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/OauthServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo1/src/main/java/com/security/oauth2/clientdemo1/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/oauth/AuthorizationServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="77" column="15" selection-start-line="77" selection-start-column="15" selection-end-line="77" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.5.0.RELEASE/spring-security-oauth2-2.5.0.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/TokenStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/src/main/java/com/security/oauth2/controller/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" selection-start-line="11" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/MyUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/config/OAuth2LoginConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/controller/ResourceEndpointController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="85" column="7" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client-demo2/src/main/java/com/security/oauth2/clientdemo1/ClientDemo2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/security/Swagger3Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth-service/src/main/java/com/security/oauth2/config/oauth/TokenConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <marker date="1663639284402" expanded="true" signature="1110:1574" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>client-demo1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

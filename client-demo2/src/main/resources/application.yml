@@ -1,0 +1,43 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /client
+spring:
+  security:
+    oauth2:
+      client:
+#        provider:
+#          authorizationserver:
+#            issuer-uri: http://127.0.0.1:8083/client/login
+        registration:
+          authorize:
+            client-id: c3 #id
+            client-secret: secret #密钥
+            provider: authorize
+            client-name:  自定义授权服务器
+            authorization-grant-type: authorization_code #授权类型
+            client-authentication-method: basic
+            scope: ROLE_ADMIN,ROLE_USER,ROLE_API
+            redirect-uri: "{baseUrl}/login/oauth2/code/{registrationId}"
+#            redirect-uri: http://127.0.0.1:8083/client/login #回调的地址信息
+        provider:
+          authorize:
+            authorization-uri: http://127.0.0.1:8081/oauth/oauth/authorize #获取授权码
+            token-uri: http://127.0.0.1:8081/oauth/oauth/token #获取令牌token
+            user-info-uri: http://127.0.0.1:8082/resource/resource #资源服务器获取资源地址
+            user-name-attribute: "name"
+
+#security:
+#  oauth2:
+#    client:
+#      client-id: c3 #id
+#      client-secret: secret #密钥
+#      user-authorization-uri: http://localhost:8081/oauth/oauth/authorize #获取授权码
+#      access-token-uri: http://localhost:8081/oauth/oauth/token #获取令牌token
+#      authentication-scheme: query  #认证的处理模式，地址重写传递
+#      client-authentication-scheme: form  #表单传递
+#      scope: ROLE_ADMIN
+#      authorized-grant-types: code  #授权类型
+#      registered-redirect-uri: http://localhost:8083/client/login #返回的地址信息
+#    resource:
+#      user-info-uri: http://localhost:8082/resource/resource #资源服务器获取资源地址

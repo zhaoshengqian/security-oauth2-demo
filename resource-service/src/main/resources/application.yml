@@ -1,0 +1,8 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /resource
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
