@@ -24,29 +24,29 @@ public class TokenConfig {
 
 
 
-//    @Autowired
-//    private RedisConnectionFactory redisConnectionFactory;
+    @Autowired
+    private RedisConnectionFactory redisConnectionFactory;
 //
-//    /**
-//     * 令牌策略-redis方式
-//     * @return
-//     */
-//    @Bean
-//    public TokenStore tokenStore(){
-//        return new RedisTokenStore(redisConnectionFactory);
-//    }
-
-
-    //加密盐，防止被篡改
-    private String SIGNING_KEY = "uaa123";
     /**
-     * 令牌策略-jwt方式
+     * 令牌策略-redis方式
      * @return
      */
     @Bean
     public TokenStore tokenStore(){
-        return new JwtTokenStore(jwtAccessTokenConverter());
+        return new RedisTokenStore(redisConnectionFactory);
     }
+
+
+    //加密盐，防止被篡改
+    private String SIGNING_KEY = "uaa123";
+//    /**
+//     * 令牌策略-jwt方式
+//     * @return
+//     */
+//    @Bean
+//    public TokenStore tokenStore(){
+//        return new JwtTokenStore(jwtAccessTokenConverter());
+//    }
 
     @Bean
     public JwtAccessTokenConverter jwtAccessTokenConverter(){

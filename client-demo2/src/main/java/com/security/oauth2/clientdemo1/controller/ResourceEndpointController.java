@@ -78,7 +78,7 @@ public class ResourceEndpointController {
         HttpEntity<String> requestEntity = new HttpEntity<String>(null,headers);
 
         //根据AccessToken 请求资源信息
-        ResponseEntity<String> response = restTemplate.exchange("http://127.0.00.1:8082/resource/resource", HttpMethod.GET,requestEntity,String.class);
+        ResponseEntity<String> response = restTemplate.exchange("http://127.0.0.1:8082/resource/resource", HttpMethod.GET,requestEntity,String.class);
 
         return response.getBody();
     }

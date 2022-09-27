@@ -1,10 +1,13 @@
 package com.security.oauth2.config;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.data.redis.connection.RedisConnectionFactory;
 import org.springframework.security.oauth2.provider.token.TokenStore;
 import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter;
 import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
+import org.springframework.security.oauth2.provider.token.store.redis.RedisTokenStore;
 
 @Configuration
 public class TokenConfig {
@@ -21,29 +24,29 @@ public class TokenConfig {
 
 
 
-//    @Autowired
-//    private RedisConnectionFactory redisConnectionFactory;
-//
-//    /**
-//     * 令牌策略-redis方式
-//     * @return
-//     */
-//    @Bean
-//    public TokenStore tokenStore(){
-//        return new RedisTokenStore(redisConnectionFactory);
-//    }
+    @Autowired
+    private RedisConnectionFactory redisConnectionFactory;
 
-
-    //加密盐，防止被篡改
-    private String SIGNING_KEY = "uaa123";
     /**
-     * 令牌策略-jwt方式
+     * 令牌策略-redis方式
      * @return
      */
     @Bean
     public TokenStore tokenStore(){
-        return new JwtTokenStore(jwtAccessTokenConverter());
+        return new RedisTokenStore(redisConnectionFactory);
     }
+
+
+    //加密盐，防止被篡改
+    private String SIGNING_KEY = "uaa123";
+//    /**
+//     * 令牌策略-jwt方式
+//     * @return
+//     */
+//    @Bean
+//    public TokenStore tokenStore(){
+//        return new JwtTokenStore(jwtAccessTokenConverter());
+//    }
 
     @Bean
     public JwtAccessTokenConverter jwtAccessTokenConverter(){

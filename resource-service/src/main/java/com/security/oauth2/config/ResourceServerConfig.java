@@ -8,6 +8,7 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
 import org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfigurerAdapter;
 import org.springframework.security.oauth2.config.annotation.web.configurers.ResourceServerSecurityConfigurer;
 import org.springframework.security.oauth2.provider.token.TokenStore;
+import org.springframework.security.web.authentication.logout.LogoutSuccessHandler;
 
 import javax.servlet.http.HttpServletResponse;
 
@@ -28,11 +29,20 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
                 .tokenStore(tokenStore);
     }
 
+    @Autowired
+    private LogoutSuccessHandler logoutSuccessHandler;
+
     @Override
     public void configure(HttpSecurity http) throws Exception {
         http
                 //跨域
                 .csrf().disable()
+
+                .logout()
+                .logoutSuccessHandler(logoutSuccessHandler)
+
+
+                .and()
                 //异常处理
                 .exceptionHandling()
                 .authenticationEntryPoint(
